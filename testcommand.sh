@@ -1,0 +1,1 @@
+tail -100 example.log | grep test | wc -l
